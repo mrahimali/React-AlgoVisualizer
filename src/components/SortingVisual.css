@@ -1,0 +1,23 @@
+.bar-cont{
+    display: flex;
+    width: 50%;
+    margin: auto;
+}
+.bars{
+    padding: 3px;
+    margin: 3px;
+    /* display: flex; */
+}
+.btn-div{
+    width: 50%;
+    margin: auto;
+    padding-top: 50px;
+}
+.btn{
+    background-color: rgb(40, 78, 78);
+    padding: 16px;
+    border-radius: 15px;
+    margin: 15px;
+    border: none;
+    color: white;
+}
